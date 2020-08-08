@@ -1,0 +1,26 @@
+Lenguajes de programación Imperativos:
+Defininen un programa como un conjunto de instrucciones u ordenes que se le da, contestando la pregunta ¿Cómo se hace?.
+Algunos ejemplos de lenguajes de programación imperativo sería: C, C++, Java, Python.
+Este sería el código de un programa que determna el factorial de un número:
+
+procedimiento factorial (entero n) 
+{
+	entero resultado = 1;
+
+
+	mientras (n>0) 
+
+	{
+	resultado = resultado *n ;
+	n= n-1;
+
+	}
+	devuelve resultado;
+}
+
+
+Lenguajes de programación declarativos:
+Son los lenguajes donde el programador define que es lo que se hace, SQL cumple con los requisitos para ser llamado lenguajes
+declarativo. Ejemplo:
+(Quiero obtener estas columunas de estas tablas)
+SELECT CustomerName, City FROM Customers;  
