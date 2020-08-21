@@ -1,0 +1,36 @@
+<root>
+        <doc>
+            <nodo1 Nombre "Javier">Texto 0 </nodo1>
+            <nodo2 Apellido "Quezada">Texto 0 </nodo2>
+            <nodo3 Carrera"Sistemas">Texto 0 </nodo3>
+            <nodo4 Id "20170896">Texto 0 </nodo4>
+
+        </doc>
+
+
+        <doc>
+            <nodo1 Nombre "Jaime">Texto 1 </nodo1>
+            <nodo2 Apellido "Maradona">Texto 1 </nodo2>
+            <nodo3 Carrera"Industrial">Texto 1 </nodo3>
+            <nodo4 Id "20189635">Texto 1 </nodo4>
+        </doc>
+
+
+        <doc>
+            <nodo1 Nombre "Jose">Texto 2 </nodo1>
+            <nodo2 Apellido "Ortega">Texto 2 </nodo2>
+            <nodo3 Carrera"Quimica">Texto 2 </nodo3>
+            <nodo4 Id "201408796">Texto 2 </nodo4>
+        </doc>
+
+
+        <doc>
+            <nodo1 Nombre "Pablo">Texto 3 </nodo1>
+            <nodo2 Apellido "Juarez">Texto 3 </nodo2>
+            <nodo3 Carrera"Electronica">Texto 3 </nodo3>
+            <nodo4 Id "20190865">Texto 3 </nodo4>
+        </doc>
+
+
+
+</root>

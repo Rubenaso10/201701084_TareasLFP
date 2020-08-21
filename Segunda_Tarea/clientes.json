@@ -1,0 +1,39 @@
+[
+    { 
+        "nombre" :"Luis Ruiz ",
+        "Empresa" : "Printer S.A",
+        "Puesto" : "Gerente de ventas",
+        "Nacionalidad": "guatemalteca"
+
+
+
+    },
+
+    {
+        "nombre" :"Sofia Herrera ",
+        "Empresa" : "Coca Cola Company",
+        "Puesto" : "Call Center",
+        "Nacionalidad": "salvadoreña"
+
+    },
+
+    {
+        "nombre" :" Diego Ordoñez ",
+        "Empresa" : "Oracle",
+        "Puesto" : "Análisis de datos",
+        "Nacionalidad": "guatemalteca"
+
+    },
+    
+    {
+        "nombre" :"Cecila Hernández ",
+        "Empresa" : "Centro Médico",
+        "Puesto" : "Secretaria",
+        "Nacionalidad": "guatemalteca"
+
+    }
+
+
+
+
+]
