@@ -1,0 +1,105 @@
+[
+    { 
+        "nombre" :"Carlos Ruiz ",
+        "edad" : "24",
+        "activo" : "True",
+        "saldo": 86
+
+
+
+    },
+
+    { 
+        "nombre" :"Javier Arreola ",
+        "edad" : "23",
+        "activo" : "True",
+        "saldo": 100
+
+
+
+    },
+
+    { 
+        "nombre" :"Jaime Zuckerberg ",
+        "edad" : "18",
+        "activo" : "False",
+        "saldo": 100
+
+
+
+    },
+
+    { 
+        "nombre" :" Ronaldo ",
+        "edad" : "22",
+        "activo" : "True",
+        "saldo": 67
+
+
+
+    },
+
+    { 
+        "nombre" :"Oliver Khan",
+        "edad" : "35",
+        "activo" : "False",
+        "saldo": 40
+
+
+
+    },
+
+    { 
+        "nombre" :"Miroslav Klose ",
+        "edad" : "20",
+        "activo" : "False",
+        "saldo": 23
+
+
+
+    },
+
+    { 
+        "nombre" :"Luis Figo ",
+        "edad" : "23",
+        "activo" : "True",
+        "saldo": 25
+
+
+
+    },
+
+    { 
+        "nombre" :"Zinedine Zidane",
+        "edad" : "24",
+        "activo" : "False",
+        "saldo": 37
+
+
+
+    },
+
+    { 
+        "nombre" :"Michael Ballack",
+        "edad" : "29",
+        "activo" : "True",
+        "saldo": 25
+
+
+
+    },
+
+    { 
+        "nombre" :"James Rodriguez",
+        "edad" : "24",
+        "activo" : "True",
+        "saldo": 100
+
+
+
+    }
+
+
+
+
+]
